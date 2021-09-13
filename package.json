@@ -1,0 +1,29 @@
+{
+  "name": "db-cli",
+  "version": "1.0.0",
+  "description": "Simple CLI to perfrom CRUD functionlity to your DB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Garima-sharma814/db-CLI.git"
+  },
+  "keywords": [
+    "CRUD",
+    "CLI",
+    "DB"
+  ],
+  "author": "Garima Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Garima-sharma814/db-CLI/issues"
+  },
+  "homepage": "https://github.com/Garima-sharma814/db-CLI#readme",
+  "dependencies": {
+    "commander": "^8.2.0",
+    "inquirer": "^8.1.2",
+    "mongoose": "^6.0.5"
+  }
+}
