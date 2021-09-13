@@ -1,10 +1,10 @@
 const mongoose= require('mongoose');
 
 const dataSchema = new mongoose.Schema({
-    firstname: string,
-    lastname: string,
-    phone: number,
-    email: string,
+    firstname: String,
+    lastname: String,
+    phone: Number,
+    email: String,
 });
 
 const dataModel = mongoose.model("user", dataSchema);
