@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const { addUser, findUser, updateUser, removeUser, listUser } = require("./index");
 const program = require("commander");
 const { prompt } = require("inquirer");
