@@ -8,6 +8,4 @@ module.exports = function userdb() {
     })
     .then(() => console.log("MongoDB connected"))
     .catch((err) => console.log(err));
-
-    mongoose.set("findAndModify", false);
 };
