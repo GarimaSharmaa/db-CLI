@@ -22,7 +22,7 @@ You can customize it as per your requirements with some minor changes in the cod
 
 #### You can edit the code right from Github editor
 - Goto the file you want to edit;
-- Press alt+. Now you can edit straight from Github.
+- Press . Now you can edit straight from Github.
 
 ## Can I customize the commands?
 to be continued..
