@@ -4,7 +4,7 @@ Or are you checking the documentation for every query you want to perform?
 
 ### This CLI is for you :)
 
-db-CLI is a command-line interface which that makes all the commands user friendly as possible. This CLI is easy to customize, as for now it is made for normal users by default.\
+db-CLI is a command-line interface that makes all the commands user friendly as possible. This CLI is easy to customize, as for now it is made for normal users by default.\
 You can customize it as per your requirements with some minor changes in the code.
 
 ## How to use this CLI?
