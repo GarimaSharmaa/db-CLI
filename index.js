@@ -5,7 +5,6 @@ const mongoose = require("mongoose");
 // Running mongoose locally
 db();
 
-console.log('To understand the github review process!');
 
 // Create the user
 const addUser = (user) => {
